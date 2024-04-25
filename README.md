@@ -18,4 +18,4 @@ lancer juste le main et suivre les instructions.
 
 ## Aide
 
-vous trouverez un jeu de données dans le répertoire test.
+vous trouverez un jeu de données dans le répertoire data.
