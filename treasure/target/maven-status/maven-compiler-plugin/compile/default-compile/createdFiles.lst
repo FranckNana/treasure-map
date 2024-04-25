@@ -1,0 +1,10 @@
+fr\carbonit\App.class
+fr\carbonit\service\SearchTreasureService.class
+fr\carbonit\models\Treasure.class
+fr\carbonit\models\Adventurer.class
+fr\carbonit\models\Mountain.class
+fr\carbonit\models\Movement.class
+fr\carbonit\utils\Constantes.class
+fr\carbonit\utils\Utils.class
+fr\carbonit\models\Carte.class
+fr\carbonit\models\Orientation.class

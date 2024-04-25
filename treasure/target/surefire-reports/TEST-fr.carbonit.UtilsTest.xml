@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="fr.carbonit.UtilsTest" time="0.119" tests="18" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\frnana\Desktop\Projets\carbonIT\treasure\target\test-classes;C:\Users\frnana\Desktop\Projets\carbonIT\treasure\target\classes;C:\Utils\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Utils\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Utils\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Utils\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Utils\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Utils\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Utils\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="C:\Utils\jdk-21.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\frnana\AppData\Local\Temp\surefire18238860224229049201\surefirebooter-20240424213105521_3.jar C:\Users\frnana\AppData\Local\Temp\surefire18238860224229049201 2024-04-24T21-31-05_392-jvmRun1 surefire-20240424213105521_1tmp surefire_0-20240424213105521_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\frnana\Desktop\Projets\carbonIT\treasure\target\test-classes;C:\Users\frnana\Desktop\Projets\carbonIT\treasure\target\classes;C:\Utils\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Utils\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Utils\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Utils\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Utils\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Utils\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Utils\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\frnana"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Utils\jdk-21.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\frnana\Desktop\Projets\carbonIT\treasure"/>
+    <property name="style.color" value="always"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\frnana\AppData\Local\Temp\surefire18238860224229049201\surefirebooter-20240424213105521_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.2+13-LTS-58"/>
+    <property name="user.name" value="frnana"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Utils\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\frnana\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.2"/>
+    <property name="user.dir" value="C:\Users\frnana\Desktop\Projets\carbonIT\treasure"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Utils\jdk-21.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/frnana/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin/server;C:/Users/frnana/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Utils\jdk-21.0.2\bin\;C:\Utils\apache-maven-3.9.6\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\frnana\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Multipass\bin;C:\Users\frnana\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\frnana\AppData\Roaming\npm;C:\WINDOWS\system32;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.2+13-LTS-58"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="turnRightTest_WEST_Orientation" classname="fr.carbonit.UtilsTest" time="0.035">
+    <system-out><![CDATA[************* PATH src\testresult_20240424_205636.txt
+************* PATH src\testresult_20240424_205643.txt
+************* PATH src\testresult_20240424_211314.txt
+************* PATH src\testresult_20240424_211753.txt
+************* PATH src\testresult_20240424_211845.txt
+************* PATH src\testresult_20240424_211919.txt
+************* PATH src\testresult_20240424_212034.txt
+************* PATH src\testresult_20240424_212553.txt
+************* PATH src\testresult_20240424_212640.txt
+************* PATH src\testresult_20240424_212711.txt
+************* PATH src\testresult_20240424_213024.txt
+************* PATH src\testresult_20240424_213056.txt
+]]></system-out>
+  </testcase>
+  <testcase name="turnLefTest_EAST_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="moveForwardTest_EAST_Orientation" classname="fr.carbonit.UtilsTest" time="0.002"/>
+  <testcase name="turnLefTest_NORTH_Orientation" classname="fr.carbonit.UtilsTest" time="0.002"/>
+  <testcase name="turnLefTest_WEST_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="placeElementsTest" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="writeOutputFileTest" classname="fr.carbonit.UtilsTest" time="0.007">
+    <system-out><![CDATA[
+FICHIER CREE AVEC SUCCESS...VOUS LE TROUVEREZ DANS LE REPERTOIR => src/test/resources
+]]></system-out>
+  </testcase>
+  <testcase name="moveForwardTest_WEST_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="buildMapTest" classname="fr.carbonit.UtilsTest" time="0.002"/>
+  <testcase name="moveForwardTest_SOUTH_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="readFileAndGetInformationsTest" classname="fr.carbonit.UtilsTest" time="0.004">
+    <system-out><![CDATA[Mon fichier : src\test\resources\monfichier.txt
+]]></system-out>
+  </testcase>
+  <testcase name="turnRightTest_SOUTH_Orientation" classname="fr.carbonit.UtilsTest" time="0.002"/>
+  <testcase name="moveForwardTest_WEST_Orientation_TREASURE" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="turnRightTest_EAST_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="getMovementsTest" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="moveForwardTest_NORTH_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="turnRightTest_NORTH_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+  <testcase name="turnLefTest_SOUTH_Orientation" classname="fr.carbonit.UtilsTest" time="0.001"/>
+</testsuite>
