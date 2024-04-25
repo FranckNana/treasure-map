@@ -1,6 +1,6 @@
 # Exercice pratique - La carte aux trésors
 
-Ce projet est ube réponse à un kata demandé par CarbonIT.
+Ce projet est une réponse à un kata présenté par CarbonIT.
 le but du jeu est de guider les aventuriers en quête de trésors.
 
 Ce programme développé en JAVA est capable d’exécuter les mouvements des différents aventuriers en respectant
@@ -14,4 +14,8 @@ simulation.
 
 ## Pour lancer le programme
 
-lancer juste le main et suivre les instructions
+lancer juste le main et suivre les instructions.
+
+## Aide
+
+vous trouverez un jeu de données dans le répertoire test.
